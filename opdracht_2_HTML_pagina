@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Dit is de 2e opdracht</title>
+    </head>
+    <body>
+       <!-- hier zet je de code in de body tags-->
+       <h1>Landen die ik graag bezoek:</h1>
+       <ul>
+           <li>Mexico</li>
+           <li>Zuid-Afrika</li>
+           <li>Italie</li>
+       </ul>
+       <img src="img/olifant.jpeg">
+       <br>
+       <a href="about.html">Hier is de pagina over mij</a>    </body>
+</html>
